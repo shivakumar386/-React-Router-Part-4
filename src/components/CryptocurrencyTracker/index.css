@@ -1,0 +1,14 @@
+.bg-container {
+  background-color: #000000;
+  height: 100%;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+}
+
+.heading {
+  color: #00e7ff;
+  font-weight: bold;
+}

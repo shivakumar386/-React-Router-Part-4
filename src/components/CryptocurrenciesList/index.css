@@ -1,0 +1,28 @@
+.ul-elements {
+  width: 70%;
+  color: #fff;
+  padding: 0;
+  border: 2px solid #00e7ff;
+  border-radius: 6px;
+}
+
+.first-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #092e33;
+  padding: 8px 20px;
+}
+
+.ul-heading {
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-right: 30px;
+}
+
+.second-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

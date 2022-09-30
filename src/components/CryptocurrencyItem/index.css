@@ -1,0 +1,24 @@
+.list-elements {
+  color: #fff;
+  list-style-type: none;
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+}
+
+.logo-details {
+  display: flex;
+  align-items: center;
+}
+.cypto-logo {
+  height: 30px;
+  width: 30px;
+  margin: 0 20px;
+}
+
+.para {
+  font-size: 12px;
+  margin-right: 20px;
+}
